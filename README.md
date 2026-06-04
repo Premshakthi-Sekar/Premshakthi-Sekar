@@ -32,7 +32,7 @@ I'm an **AI & Machine Learning Engineer** with **5+ years of combined experience
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | 🍽️ **Restaurant Inventory Forecasting** | End-to-end ML pipeline · Random Forest · 7-day demand forecast · Reorder recommendation engine · Power BI dashboards | Python · Scikit-learn · Pandas · Matplotlib | [View Repo →](https://github.com/Premshakthi-Sekar/restaurant-inventory-forecasting) |
-| 🖼️ **GAN-Based Food Image Classifier** | MSc Dissertation · GAN for synthetic data augmentation · Improved CNN classification accuracy over standard baselines | Python · TensorFlow · GANs · CNNs | Coming soon |
+| 🖼️ **GAN-Based Food Image Classifier** | MSc Dissertation · GAN for synthetic data augmentation · Improved CNN classification accuracy over standard baselines | Python · TensorFlow · GANs · CNNs | [View Repo →](https://github.com/Premshakthi-Sekar/gan-food-classification) |
 | 🧠 **Customer Behaviour Prediction** | NLP + K-Means clustering · Customer segmentation · Product discovery recommendations · Grainger App | Python · NLP · Scikit-learn | Coming soon |
 
 ---
