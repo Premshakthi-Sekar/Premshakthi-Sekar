@@ -23,7 +23,7 @@ Persistent AI artists, independent critics and a curator who remember what happe
 
 **[Restaurant demand forecasting](https://github.com/Premshakthi-Sekar/restaurant-inventory-forecasting)** · Python, scikit-learn
 
-Random Forest 7-day forecast with reorder recommendations, from my work at Dosa Kitchen. 26.1% lower MAE than a naive baseline.
+Random Forest 7-day forecast with reorder recommendations, demonstrating the approach I used at Dosa Kitchen on sample data.
 
 **[GAN food classification](https://github.com/Premshakthi-Sekar/gan-food-classification)** · MSc dissertation · Python, TensorFlow
 
