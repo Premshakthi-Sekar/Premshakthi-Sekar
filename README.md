@@ -3,7 +3,7 @@
 AI engineer building LLM systems and data pipelines that can be measured and trusted.
 
 MSc Artificial Intelligence (Northumbria University, UK) · 6+ years in software and data · over two years working in the UK.
-Based in Chennai, India. Open to UK AI, ML and data roles.
+Based in Chennai, India. Open to AI, ML and data roles, including relocation.
 
 [LinkedIn](https://www.linkedin.com/in/premshakthi-sekar-a6a328156) · [Email](mailto:premshakthi@outlook.com)
 
